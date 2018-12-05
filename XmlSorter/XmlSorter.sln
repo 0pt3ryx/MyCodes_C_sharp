@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlSorter", "XmlSorter\XmlSorter.csproj", "{945C2613-17E1-43D8-AF26-4D6EB2A2E600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{945C2613-17E1-43D8-AF26-4D6EB2A2E600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945C2613-17E1-43D8-AF26-4D6EB2A2E600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945C2613-17E1-43D8-AF26-4D6EB2A2E600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945C2613-17E1-43D8-AF26-4D6EB2A2E600}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B47CE4B-128A-4F78-85E7-737EDDBAEA5F}
+	EndGlobalSection
+EndGlobal

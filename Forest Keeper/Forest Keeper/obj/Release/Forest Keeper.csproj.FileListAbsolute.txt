@@ -1,0 +1,10 @@
+D:\private\Visual Studio Projects\Forest Keeper\Forest Keeper\bin\Release\Forest Keeper.exe.config
+D:\private\Visual Studio Projects\Forest Keeper\Forest Keeper\bin\Release\Forest Keeper.exe
+D:\private\Visual Studio Projects\Forest Keeper\Forest Keeper\bin\Release\Forest Keeper.pdb
+D:\private\Visual Studio Projects\Forest Keeper\Forest Keeper\obj\Release\Forest_Keeper.Properties.Resources.resources
+D:\private\Visual Studio Projects\Forest Keeper\Forest Keeper\obj\Release\Forest Keeper.csproj.GenerateResource.cache
+D:\private\Visual Studio Projects\Forest Keeper\Forest Keeper\obj\Release\Forest Keeper.csproj.CoreCompileInputs.cache
+D:\private\Visual Studio Projects\Forest Keeper\Forest Keeper\obj\Release\Forest Keeper.exe
+D:\private\Visual Studio Projects\Forest Keeper\Forest Keeper\obj\Release\Forest Keeper.pdb
+D:\private\Visual Studio Projects\Forest Keeper\Forest Keeper\obj\Release\Forest Keeper.csprojAssemblyReference.cache
+D:\private\Visual Studio Projects\Forest Keeper\Forest Keeper\obj\Release\Forest_Keeper.MainForm.resources

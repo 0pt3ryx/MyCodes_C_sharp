@@ -1,0 +1,10 @@
+D:\private\Visual Studio Projects\XmlSorter\XmlSorter\bin\Debug\XmlSorter.exe.config
+D:\private\Visual Studio Projects\XmlSorter\XmlSorter\bin\Debug\XmlSorter.exe
+D:\private\Visual Studio Projects\XmlSorter\XmlSorter\bin\Debug\XmlSorter.pdb
+D:\private\Visual Studio Projects\XmlSorter\XmlSorter\obj\Debug\XmlSorter.csprojAssemblyReference.cache
+D:\private\Visual Studio Projects\XmlSorter\XmlSorter\obj\Debug\XmlSorter.Form1.resources
+D:\private\Visual Studio Projects\XmlSorter\XmlSorter\obj\Debug\XmlSorter.Properties.Resources.resources
+D:\private\Visual Studio Projects\XmlSorter\XmlSorter\obj\Debug\XmlSorter.csproj.GenerateResource.cache
+D:\private\Visual Studio Projects\XmlSorter\XmlSorter\obj\Debug\XmlSorter.csproj.CoreCompileInputs.cache
+D:\private\Visual Studio Projects\XmlSorter\XmlSorter\obj\Debug\XmlSorter.exe
+D:\private\Visual Studio Projects\XmlSorter\XmlSorter\obj\Debug\XmlSorter.pdb
